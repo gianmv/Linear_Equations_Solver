@@ -32,17 +32,10 @@ gradle build
 
 ### Executing program
 
-* How to run the program
+* How to run using the _solver.jar_
 * Step-by-step bullets
 ```
 code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
 ```
 
 ## Authors

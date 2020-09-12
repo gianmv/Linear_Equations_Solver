@@ -32,3 +32,16 @@ application {
     // Define the main class for the application
     mainClassName = "solver.Main"
 }
+
+tasks {
+    jar {
+        manifest {
+            attributes(
+                mapOf(
+                    "Implementation-Title" to project.name,
+                    "Implementation-Version" to project.version,
+                    "Main-Class" to "solver.Main")
+            )
+        }
+    }
+}
