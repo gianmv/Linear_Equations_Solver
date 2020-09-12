@@ -32,7 +32,7 @@ gradle build
 
 ### Executing program
 
-* How to run using the _solver.jar_
+How to run using the _solver.jar_: 
 The program need 2 parameters: a mandatory input text file name with a specific format describe below
 and an optional output file name where the solution it will be save. The way to call is:
 ```
