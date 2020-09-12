@@ -9,8 +9,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        String inputFilePath = "";
-        String outFilePath = "";
+        String inputFilePath = "in.txt";
+        String outFilePath = "out.txt";
         //Look for the parameters -in and -out and its values
         for (int i = 0; i < args.length -1; i++) {
             if ("-in".equals(args[i])) {
