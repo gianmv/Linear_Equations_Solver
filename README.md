@@ -45,7 +45,9 @@ in the first line, inmediatly in the next line the coeficients separated by a sp
 the constant value of the equation. For example for the real system equation:
 
 2x -3y + z= 1
+
 4x +5y - 4z= -5
+
 -3x +2y +5z = 0
 
 You have to write the input file as follow
@@ -62,7 +64,9 @@ have to have the plus or minus sign when also have a real part. To indicate the 
 to the number.
 
 (1 + 2i)x + (-1.5-1.1)y + 2.12z = 91 + 5i
+
 (-1 + 3i)x + (1.2 + 3.5i)y -3.3z = 1 + 15i
+
 12.31x (1.3 - 5i)y + 12.31i = -78.3i
 
 You have to write to the input file as follow
