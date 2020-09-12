@@ -85,7 +85,7 @@ You have to write to the input file as follow
 
 ## License
 
-This project is licensed under the [MIT] License
+This project is licensed under the MIT License
 
 ## Acknowledgments
 
