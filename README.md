@@ -78,13 +78,6 @@ You have to write to the input file as follow
 12.31 1.3-5i 12.3i -78.3i
 ```
 
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
 ## Version History
 
 * 0.1
@@ -92,7 +85,7 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [MIT] License
 
 ## Acknowledgments
 
